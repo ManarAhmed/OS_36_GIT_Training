@@ -1,0 +1,17 @@
+body{
+	background: #eae3d3;
+}
+#logo{
+	height:200;
+	background: #ecafb4;
+}
+
+h3{
+      float: left;
+      padding: 10;
+      margin-left: 10px;
+      font: sans-serif;
+      font-style: italic;
+      color: #8e2c87;
+      width: 400;
+}
